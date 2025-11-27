@@ -1,0 +1,16 @@
+Baseline metrics:
+accuracy: 0.8264563106796117
+precision: 0.20224719101123595
+recall: 0.2
+f1: 0.2011173184357542
+roc_auc: 0.5516348773841961
+
+Pruned (best) metrics:
+accuracy: 0.8847087378640777
+precision: 0.4444444444444444
+recall: 0.2222222222222222
+f1: 0.2962962962962963
+roc_auc: 0.693225855283076
+
+Best params:
+{'dt__ccp_alpha': 0.0, 'dt__max_depth': None, 'dt__min_samples_leaf': 5}
